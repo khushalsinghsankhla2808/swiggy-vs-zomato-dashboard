@@ -402,14 +402,30 @@ Through this project, the following skills were practiced:
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-**Khushal Singh Sankhla**
-- GitHub: [khushal280804](https://github.com/khushal280804)
-- LinkedIn: [Khushal Singh Sankhla](https://www.linkedin.com/in/khushal-singh-sankhla/)
-- Email: khushalsinghsankhla203@gmail.com
+<div align="center">
 
-For queries, feedback, or collaboration, feel free to reach out.
+## 👨‍💻 Khushal Singh Sankhla
+
+<p align="center">
+
+  <a href="https://github.com/khushalsinghsankhla2808" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-khushalsinghsankhla2808-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/khushal-singh-sankhla" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Khushal%20Singh%20Sankhla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:khushalsinghsankhla203@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</p>
+
+</div>
+
 ---
 
 # 📄 License
