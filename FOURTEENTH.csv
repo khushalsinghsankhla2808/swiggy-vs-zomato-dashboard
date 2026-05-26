@@ -1,0 +1,10 @@
+swiggy_discount_tier,zomato_discount_tier,restaurants,avg_swiggy_rev,avg_zomato_rev,avg_swiggy_orders,avg_zomato_orders
+High (25%+),High (25%+),35,159084,161964,235,235
+High (25%+),Low (<15%),162,147213,124883,218,185
+High (25%+),Medium (15–24%),88,146512,136729,239,221
+Medium (15–24%),Medium (15–24%),248,139239,139405,209,209
+Medium (15–24%),Low (<15%),438,134113,120747,208,189
+Medium (15–24%),High (25%+),85,130549,142105,204,222
+Low (<15%),High (25%+),166,127098,151153,194,232
+Low (<15%),Low (<15%),781,123443,124119,190,191
+Low (<15%),Medium (15–24%),497,121387,133023,187,205

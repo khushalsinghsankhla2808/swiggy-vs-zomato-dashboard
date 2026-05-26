@@ -1,0 +1,5 @@
+"distance_bucket","total_orders","swiggy_avg_delivery_time","zomato_avg_delivery_time"
+"0-2 km","289","26.9","26.7"
+"2-5 km","546","31.4","31.5"
+"5-10 km","815","39.6","39.2"
+"10+ km","850","49.4","49.5"

@@ -1,0 +1,16 @@
+restaurant_name,city,cuisines,swiggy_rating,zomato_rating,average_rating_both_platforms
+Restaurant_316,Mumbai,Biryani,5,4.8,4.9
+Restaurant_1672,Hyderabad,Cafe; Desserts,4.7,5,4.85
+Restaurant_344,Mumbai,Multi-Cuisine; Italian,5,4.7,4.85
+Restaurant_80,Mumbai,Lebanese,4.9,4.7,4.8
+Restaurant_2441,Lucknow,Fast Food; Pan-Asian,5,4.6,4.8
+Restaurant_1853,Chennai,Vietnamese; Street Food,4.7,4.8,4.75
+Restaurant_1034,Delhi,Bakery; Bakery,4.6,4.9,4.75
+Restaurant_2213,Ahmedabad,Thai,4.5,5,4.75
+Restaurant_1979,Kolkata,Street Food,4.7,4.8,4.75
+Restaurant_527,Bangalore,Biryani,4.8,4.7,4.75
+Restaurant_1859,Chennai,North Indian,4.8,4.6,4.7
+Restaurant_1312,Pune,Desserts; Desserts,4.9,4.5,4.7
+Restaurant_1333,Pune,Continental; Bakery,4.4,5,4.7
+Restaurant_2262,Ahmedabad,Mexican,4.8,4.6,4.7
+Restaurant_1126,Delhi,Continental,4.8,4.6,4.7
